@@ -1,0 +1,13 @@
+# Base desktop stack for autostarting KOROLI Python GUI
+xserver-xorg
+xinit
+openbox
+python3
+python3-tk
+python3-urllib3
+python3-certifi
+ca-certificates
+x11-xserver-utils
+xterm
+network-manager
+curl

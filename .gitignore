@@ -1,0 +1,4 @@
+build/
+iso/boot/kernel.bin
+tools/live_iso/work/
+tools/live_iso/out/
